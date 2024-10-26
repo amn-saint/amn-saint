@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 💫 Sobre mim
 Olá, meu nome é Amon Cortez sou um estudante proativo e curioso de Análise e Desenvolvimento de Sistemas. Eu gosto de me desafiar em projetos que simulam desafios reais do ambiente de trabalho e estou sempre curioso para aprender novas tecnologias e ferramentas.<br><br>🔭 Estou atualmente trabalhando em projetos que envolvam Ciência de Dados.. <br>👯 Estou procurando colaborar em um ambiente que eu possa me desenvolver e evoluir como profissional.<br>🌱 Atualmente aprendendo Modelagem de Dados e ETL.<br>
 
 
